@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488259749016",
+    "project_id": "mlkitdemo-ae762",
+    "storage_bucket": "mlkitdemo-ae762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488259749016:android:d4b19ed059acb779147ced",
+        "android_client_info": {
+          "package_name": "com.example.ml_kit_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvtqrD4V4kbzlcCGefU5h9jKBNigMkk90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
